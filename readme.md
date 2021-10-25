@@ -1,3 +1,2 @@
-# Natours Application
+### Natours Application Clone
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
